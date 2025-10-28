@@ -1,7 +1,7 @@
 /*Bealitom a header haterkepet*/
 header
 {
-    background-image:  url(/img_library/header/Background_pattern.png),url(/img_library/header/main_img.png);
+    background-image:  url(img_library/header/Background_pattern.png),url(img_library/header/main_img.png);
     background-repeat: repeat,no-repeat;
     background-size: auto,cover;
     /* height: 900px; */
@@ -261,7 +261,7 @@ nav>button:hover
 /*main trustworthiness resz*/
 .trustworthiness
 {
-    background-image:  url(/img_library/main_trustworthiness/trustworthiness_backgraund.png);
+    background-image:  url(img_library/main_trustworthiness/trustworthiness_backgraund.png);
     background-repeat: repeat;
     background-size: cover;
     height: auto; 
@@ -621,7 +621,7 @@ nav>button:hover
 }
 .testimonial_last
 {
-    background-image:  url(/img_library/main_testimonial/trustworthiness_backgraund.png);
+    background-image:  url(img_library/main_testimonial/trustworthiness_backgraund.png);
     width: 1140px;
     border-radius: 24px;
     margin: 0 auto; /* Ez középre helyezi vízszintesen */
@@ -863,4 +863,5 @@ footer>.content2
   footer .content1 img {
     width: 70%;
   }
+
 }
