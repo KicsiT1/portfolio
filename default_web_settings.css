@@ -1,0 +1,30 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*A betutipus formatuma miat egyenlore csak fejlesztesre erdemes haszalni.*/
+/* woff vagy woff2- kellesz a web oldal elesitesehez*/
+/*( woff vagy woff2-hoz licenzkel marad a demo valtozat) */
+@font-face {
+  font-family: 'Integral CF';
+  src: url('fonts/IntegralCF/Fontspring-DEMO-integralcf-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,h2,h4,h5,h6
+{
+    font-family: "Integral CF","Courier New";
+}
+h3
+{
+     font-family: "Poppins", "sans-serif";
+}
+
+p,ul,li,button,span
+{
+    font-family: "Poppins", "sans-serif";
+}
